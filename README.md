@@ -1,4 +1,8 @@
-## Hi there 👋
+## The circus has arrived 🤡
+
+- I'm currently working on finding a job 🤡
+
+- I'm currently learning Javascript 🫠
 
 <!--
 **winthehim/winthehim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
